@@ -1,0 +1,16 @@
+{
+  "id": "farizodastanaqulova/digit-recognizer-mnist-lightgbm-0-973",
+  "title": "Digit Recognizer (MNIST) \u2014 LightGBM (0.973)",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "kernel_sources": []
+}

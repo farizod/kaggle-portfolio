@@ -1,0 +1,16 @@
+{
+  "id": "farizodastanaqulova/obesity-risk-s4e2-lightgbm",
+  "title": "Multi-Class Prediction of Obesity Risk (S4E2) \u2014 LightGBM (0.913)",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": [
+    "playground-series-s4e2"
+  ],
+  "kernel_sources": []
+}

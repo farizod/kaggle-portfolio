@@ -1,0 +1,9 @@
+# Competition data (not redistributable per Kaggle terms)
+data/
+# Local working / debug dirs
+klog/
+kpull/
+ktpl/
+# Python
+__pycache__/
+*.pyc

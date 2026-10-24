@@ -1,0 +1,16 @@
+{
+  "id": "farizodastanaqulova/house-prices-lightgbm",
+  "title": "House Prices - Advanced Regression Techniques \u2014 LightGBM (0.128)",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "kernel_sources": []
+}

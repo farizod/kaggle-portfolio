@@ -1,0 +1,16 @@
+{
+  "id": "farizodastanaqulova/forest-cover-type-prediction-lightgbm-0-747",
+  "title": "Forest Cover Type Prediction \u2014 LightGBM (0.747)",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": [
+    "forest-cover-type-prediction"
+  ],
+  "kernel_sources": []
+}
